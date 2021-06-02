@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.9.1)
+  - MBProgressHUD (1.2.0)
+  - SDWebImage (5.11.0):
+    - SDWebImage/Core (= 5.11.0)
+  - SDWebImage/Core (5.11.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - MBProgressHUD
+  - SDWebImage (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MBProgressHUD
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  SDWebImage: 7acbb57630ac7db4a495547fb73916ff3e432f6b
+
+PODFILE CHECKSUM: 0c3c46bbd07da314970ce84b77cee4310a36ef3c
+
+COCOAPODS: 1.10.1
